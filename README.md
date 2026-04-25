@@ -57,7 +57,7 @@ This repository contains multiple real-world data analysis and application-based
 
 ## 🛠️ Tech Stack
 
-* Python 🐍
+* Python 
 * Pandas
 * NumPy
 * Matplotlib
@@ -79,7 +79,7 @@ Python_Projects/
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -100,7 +100,7 @@ Python_Projects/
 
 ---
 
-## 📈 Learning Outcomes
+## Learning Outcomes
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
@@ -110,7 +110,7 @@ Python_Projects/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Haritha Netha**
 
@@ -119,11 +119,6 @@ Python_Projects/
 
 ---
 
-## ⭐ Support
+## Support
 
 If you like this repository, feel free to ⭐ star it and share!
-If you want, I can also:
-
-* Make this **ATS-friendly for recruiters**
-* Add **project screenshots**
-* Or convert this into a **portfolio-level GitHub README (very high impact)**
